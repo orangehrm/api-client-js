@@ -4,7 +4,7 @@
   "description": "OrangeHRM Api client for js apps",
   "main": "index.js",
   "scripts": {
-    "test": "make test"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
